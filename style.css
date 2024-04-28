@@ -11,7 +11,7 @@ h1 {
   line-height: 5rem;
 }
 
-.choise {
+.choice {
   height: 165px;
   width: 165px;
   border-radius: 50%;
@@ -20,7 +20,7 @@ h1 {
   align-items: center;
 }
 
-.choise:hover {
+.choice:hover {
   cursor: pointer;
   background-color: #081b31;
 }
@@ -32,7 +32,7 @@ img {
   border-radius: 50%;
 }
 
-.choises {
+.choices {
   display: flex;
   justify-content: center;
   align-items: center;
